@@ -73,17 +73,7 @@ The tool will:
 - Convert it to grayscale.
 - Save it as `output.jpg`.
 
----
 
-## 📸 Demo
-
-Here's an example of a transformed image:
-
-| **Original**             | **Transformed**          |
-|--------------------------|--------------------------|
-| ![Original]([demo/original.jpg](https://github.com/sergeicher1/pythonImageTransform/blob/main/1.jpg)) | ![Transformed](demo/transformed.jpg) |
-
----
 
 ## 🤝 Contributing
 
@@ -92,18 +82,4 @@ We welcome contributions! Feel free to:
 - Suggest new features.
 - Submit pull requests.
 
----
 
-## 📝 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
-
-## 📧 Contact
-
-Have questions or suggestions? Reach out:
-- **Email**: yourname@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
-Happy Coding! 🚀
