@@ -81,7 +81,7 @@ Here's an example of a transformed image:
 
 | **Original**             | **Transformed**          |
 |--------------------------|--------------------------|
-| ![Original](demo/original.jpg) | ![Transformed](demo/transformed.jpg) |
+| ![Original]([demo/original.jpg](https://github.com/sergeicher1/pythonImageTransform/blob/main/1.jpg)) | ![Transformed](demo/transformed.jpg) |
 
 ---
 
